@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317889089851",
+    "project_id": "ecommerceapp-9204a",
+    "storage_bucket": "ecommerceapp-9204a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317889089851:android:0065803c548dddfc12271e",
+        "android_client_info": {
+          "package_name": "com.reactnativeecommercetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QqM20uwTg9xtz9OnnmYZHgV52CImb9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
